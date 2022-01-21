@@ -1,0 +1,10 @@
+body {
+    overflow-y: overlay !important;
+    overflow-x: hidden;
+    overflow-wrap: break-word;
+}
+
+.active {
+    background-color: #bda208 !important;
+    border-color: #6b1447 !important;
+}

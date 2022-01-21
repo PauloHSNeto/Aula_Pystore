@@ -1,0 +1,22 @@
+[
+    {
+        "model": "products.category",
+        "pk": 2,
+        "fields": {
+            "created": "2020-11-29T19:48:50.913Z",
+            "modified": "2020-11-29T19:48:50.913Z",
+            "name": "Brincos",
+            "slug": "brincos"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 3,
+        "fields": {
+            "created": "2020-11-29T19:48:53.913Z",
+            "modified": "2020-11-29T19:48:53.913Z",
+            "name": "Colares",
+            "slug": "colares"
+        }
+    }
+]
